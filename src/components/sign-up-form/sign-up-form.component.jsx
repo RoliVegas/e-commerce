@@ -69,7 +69,7 @@ const SignUpForm = () => {
                     label="Password"
                     type="password" 
                     required 
-                    onChange={handleChange} 
+                    onChange={handleChange}
                     name="password" 
                     value={password} 
                 />
